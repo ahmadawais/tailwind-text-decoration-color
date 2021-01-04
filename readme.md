@@ -1,4 +1,4 @@
-[![tailwind-text-decoration-color running in a terminal](./.github/tailwind-text-decoration-color.png)](./../../)
+[![tailwind-text-decoration-color running in a terminal](./.github/tailwind-text-decoration-color.jpg)](./../../)
 
 # tailwind-text-decoration-color
 
