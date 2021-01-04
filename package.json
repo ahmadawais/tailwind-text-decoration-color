@@ -1,6 +1,6 @@
 {
 	"name": "tailwind-text-decoration-color",
-	"version": "1.0.0",
+	"version": "1.1.0",
 	"description": "Tailwind plugin to create text-decoration-color classes",
 	"main": "index.js",
 	"repository": "ahmadawais/tailwind-text-decoration-color",

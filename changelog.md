@@ -32,7 +32,28 @@ I have released a video course to help you build <a href="https://NodeCLI.com/?u
 
 <br>
 
+### RELEASE: [1.1.0](https://github.com/ahmadawais/tailwind-text-decoration-color/compare/1.0.0...1.1.0)
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 Simple fn [`51bbb7e`](https://github.com/ahmadawais/tailwind-text-decoration-color/commit/51bbb7ef1795d36fd4f10dd73767d3e58245a185) <br>
+
+<br>
+
+[![hr](https://raw.githubusercontent.com/ahmadawais/stuff/master/images/git/hr.png)](/)
+
+<br>
+
 ### RELEASE: 1.0.0
+
+![📦 NEW:](https://img.shields.io/badge/-NEW-gray.svg?colorB=3778FF)
+
+> 📦 First commit [`b078708`](https://github.com/ahmadawais/tailwind-text-decoration-color/commit/b078708211e52efd92917b19ab29dfaa1b732fda) <br>
+
+![📖 DOC:](https://img.shields.io/badge/-DOCS-gray.svg?colorB=978CD4)
+
+> 📖 Info [`b00f4f3`](https://github.com/ahmadawais/tailwind-text-decoration-color/commit/b00f4f3b4efe76999fabc6ce327f30289d635023) <br>
+> 📖 Changelog [`d339158`](https://github.com/ahmadawais/tailwind-text-decoration-color/commit/d339158491fc7ae01011d00e4dc06b338b93d018) <br>
 
 <br>
 
