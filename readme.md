@@ -1,20 +1,20 @@
-# Caret Color - TailwindCSS Plugin
+# Text Decoration Color - Tailwind CSS Utility Plugin
 
-[![npm](https://img.shields.io/npm/v/tailwind-caret-color.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-caret-color)
-[![npm](https://img.shields.io/npm/dt/tailwind-caret-color.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-caret-color)
+[![npm](https://img.shields.io/npm/v/tailwind-text-decoration-color.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-text-decoration-color)
+[![npm](https://img.shields.io/npm/dt/tailwind-text-decoration-color.svg?style=flat-square)](https://www.npmjs.com/package/tailwind-text-decoration-color)
 
-This plugin generates classes for coloring carets using `caret-color: #;`.
+This plugin generates classes for anchor link text-decoration coloring carets using `text-decoration-color: <color>;`. Where the `<color>` part comes from your tailwind config colors — so you can use `decoration-gray-500` or custom colors `decoration-sop-900`.
 
 ## Installation
 
 Pull it in through npm or yarn:
 
 ```bash
-npm install tailwind-caret-color
+npm install tailwind-text-decoration-color
 ```
 
 ```bash
-yarn add tailwind-caret-color
+yarn add tailwind-text-decoration-color
 ```
 
 ## Usage
@@ -24,11 +24,11 @@ Add it to the plugins array of your Tailwind config.
 ```js
 plugins: [
   // Other plugins
-  require('tailwind-caret-color')(),
+  require('tailwind-text-decoration-color')(),
 ],
 ```
 
-For each color in `colors` config of tailwind a `caret-{color}` class is created, analog to `bg-` and `text-` classes.
+For each color in `colors` config of tailwind a `decoration-{color}` class is created, analog to `bg-` and `text-` classes.
 
 ## License
 

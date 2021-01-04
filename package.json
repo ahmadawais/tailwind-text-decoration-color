@@ -1,10 +1,25 @@
 {
-  "name": "tailwind-caret-color",
-  "version": "1.0.4",
-  "description": "Tailwind plugin to create caret color classes",
-  "main": "index.js",
-  "repository": "https://github.com/Naoray/tailwind-caret-color",
-  "author": "Krishan Koenig",
-  "license": "MIT",
-  "private": false
+	"name": "tailwind-text-decoration-color",
+	"version": "1.0.0",
+	"description": "Tailwind plugin to create text-decoration-color classes",
+	"main": "index.js",
+	"repository": "ahmadawais/tailwind-text-decoration-color",
+	"license": "MIT",
+	"author": {
+		"name": "Ahmad Awais",
+		"email": "me@AhmadAwais.com",
+		"url": "https://twitter.com/MrAhmadAwais/"
+	},
+	"files": [
+		"index.js",
+		"utils",
+		"template"
+	],
+	"keywords": [
+		"tailwind",
+		"tailwind-text-decoration-color",
+		"text-decoration-color",
+		"Awais",
+		"Ahmad Awais"
+	]
 }
