@@ -33,7 +33,7 @@ Add it to the plugins array of your Tailwind config.
 ```js
 plugins: [
   // Other plugins
-  require('tailwind-text-decoration-color')(),
+  require('tailwind-text-decoration-color'),
 ],
 ```
 
