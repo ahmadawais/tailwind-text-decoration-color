@@ -21,6 +21,11 @@ module.exports = function ({ e, addUtilities, theme }) {
 					[`.decoration-${e(key)}-${variant}`]: {
 						'text-decoration-color': colors[key][variant],
 					},
+					...(variant === 'DEFAULT' ? {
+						[`.decoration-${e(key)}`]: {
+							'text-decoration-color': colors[key][variant],
+						},
+					} : {} )
 				}),
 				{}
 			),
